@@ -1,5 +1,4 @@
 # pouya 
  i am pouya
- computer
-  i from iran 
+ computer  i from iran 
   
